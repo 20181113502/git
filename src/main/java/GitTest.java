@@ -5,6 +5,6 @@ public class GitTest {
     public void test() {
         System.out.println("git测试");
         System.out.println("true = " + true);
-        System.out.println("hsavbfuiabsyfbn");
+        System.out.println("我要推送到远程库");
     }
 }
